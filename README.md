@@ -1,2 +1,2 @@
 # ABB_Modbus_Project
-2nd year embedded systems school project from 2018
+Metropolia UAS 2nd year Embedded Systems project from 2018
